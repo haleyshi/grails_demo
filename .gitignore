@@ -2,5 +2,6 @@
 /lib/
 /.settings/
 /target-eclipse/
+/wrapper/
 .classpath
 .project
